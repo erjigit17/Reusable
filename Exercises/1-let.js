@@ -1,5 +1,5 @@
 'use strict';
 
-let name = undefined;
+let name = 'Erjigit';
 
 module.exports = { name };
